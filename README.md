@@ -12,4 +12,4 @@ This simple project demonstrates how to create a toast notification system using
 
 Feel free to modify and adapt this toast notification system to suit your specific project requirements. Enjoy using this simple and effective way to communicate messages to your users!
 
-[Click here to preview](https://rkrider.github.io/toast-notification/)
+[Click here to preview](https://bumblebee338.github.io/toast-notification/)
